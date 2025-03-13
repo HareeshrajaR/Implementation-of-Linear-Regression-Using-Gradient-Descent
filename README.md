@@ -55,15 +55,19 @@ print(f"Predicted value: {pre}")
 
 ## Output:
 ### Dataset :
-![alt text](output/Data.png)
+![image](https://github.com/user-attachments/assets/e4269b9b-ebdb-4f99-8c11-18cb7b59a108)
+
 
 ### X nd Y values:
-![alt text](output/XValue.png)
+![image](https://github.com/user-attachments/assets/c472c270-b657-4b22-b9fb-8ea205bd574c)
 
-![alt text](output/Yvalue.png)
+
+![image](https://github.com/user-attachments/assets/13d30526-d09e-4c6a-9e6e-c31e70621f16)
+
 
 ### Predicted Value :
-![alt text](output/predict.png)
+![image](https://github.com/user-attachments/assets/b791b2d4-3009-4fab-8d5c-18d4befb8c1f)
+
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
